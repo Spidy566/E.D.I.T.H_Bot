@@ -1,0 +1,6 @@
+#ignore json files
+config.json
+
+#PyCharm
+/.idea
+*.pyc
